@@ -1,6 +1,7 @@
 ctransformers
 sentence-transformers
 pinecone-client
+langchain-pinecone
 langchain
 flask
 pypdf
