@@ -27,3 +27,17 @@ conda activate chatbot-llm
         - function to extract data from pdf files
         - function to create text chunks
         - function to downlaod embedding model
+
+
+- **define store_index.py**
+    - Pinecone Section
+
+
+- **Define Prompt Template**
+
+- **Define project UI**
+    - add templates/chat.html
+    - add static/style.css
+
+
+- define **app.py**
