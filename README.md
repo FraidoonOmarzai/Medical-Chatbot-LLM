@@ -20,3 +20,10 @@ conda activate chatbot-llm
 
 
 - runing jypyer notebook for experimental purposes
+
+- **utils.py**
+    - create src/utils.py
+    - add all the required functions
+        - function to extract data from pdf files
+        - function to create text chunks
+        - function to downlaod embedding model
